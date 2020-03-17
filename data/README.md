@@ -7,3 +7,4 @@ If you have an AWS account already, you can use `awscli` to download the data in
 ```
 aws s3 cp s3://uw-geohack/trees/ . --recursive
 ```
+
