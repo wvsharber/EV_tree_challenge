@@ -1,6 +1,7 @@
 #Data Files
 *.json
 *.tif
+*.pkl
 
 #DS_Store
 *.DS_Store
