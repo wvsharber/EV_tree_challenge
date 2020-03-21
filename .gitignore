@@ -2,6 +2,8 @@
 *.json
 *.tif
 *.pkl
+*.png
+*.png*
 
 #DS_Store
 *.DS_Store
